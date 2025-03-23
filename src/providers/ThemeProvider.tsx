@@ -8,6 +8,7 @@ import {
   useState,
 } from "react";
 import { darkTheme, lightTheme } from "@/styles/theme.css";
+import { whFull } from "@/styles/vars.css";
 
 type Theme = "light" | "dark";
 
@@ -59,7 +60,7 @@ export default function ThemeProvider({ children }: PropsWithChildren) {
   return (
     <ThemeContext.Provider value={value}>
       {mounted ? (
-        <div className={theme === "light" ? lightTheme : darkTheme}>
+        <div className={`${theme === "light" ? lightTheme : darkTheme} ${whFull}`}>
           {children}
         </div>
       ) : null}

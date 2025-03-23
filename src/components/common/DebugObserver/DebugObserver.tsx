@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useRecoilSnapshot } from "recoil";
 
-export function DebugObserver() {
+const DebugObserver = ()=> {
   const snapshot = useRecoilSnapshot();
 
   useEffect(() => {
@@ -13,3 +13,5 @@ export function DebugObserver() {
 
   return null;
 }
+
+export default DebugObserver;

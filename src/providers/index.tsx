@@ -1,3 +1,5 @@
+"use client";
+
 import { PropsWithChildren } from "react";
 import { RecoilProvider } from "@/providers/RecoilProvider";
 import { QueryProvider } from "@/providers/QueryProvider";
