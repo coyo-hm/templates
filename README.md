@@ -18,11 +18,11 @@ project.
 ![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Recoil](https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
 ![React Query](https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![vanilla-extract](https://img.shields.io/badge/vanilla--extrac-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![semantic-release](https://img.shields.io/badge/semanticrelease-494949?style=for-the-badge&logo=semanticrelease&logoColor=white)
 ![commitlint](https://img.shields.io/badge/commitlint-000000?style=for-the-badge&logo=commitlint&logoColor=white)
 
 * `next-intl`
-* `vanilla-extract`
 * `husky`
 
 
@@ -41,8 +41,8 @@ npx degit coyo-hm/boilerplates#next-ts-vanilla-extract project-name
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Emotion](https://img.shields.io/badge/emotion-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-* `emotion`
 
 
 #### 🚀 How to Use
